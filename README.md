@@ -10,6 +10,7 @@ Você pode rodar o montador de forma simplificada através do `Makefile` ou usan
 Certifique-se de que o arquivo de entrada desejado esteja nomeado como `entrada.asm`.
 No terminal, utilize um dos comandos a seguir:
 
+* `make all`: Exibe informações básicas e orientações de uso.
 * `make run`: Executa o montador utilizando o `entrada.asm` e gera o resultado em um arquivo chamado `saida.bin`.
 * `make terminal`: Executa o montador utilizando o `entrada.asm` e exibe os binários diretamente na tela do terminal.
 * `make clean`: Limpa o diretório do projeto, apagando o arquivo gerado (`saida.bin`).
