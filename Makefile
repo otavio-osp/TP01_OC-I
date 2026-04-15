@@ -21,6 +21,7 @@ terminal:
 
 help:
 	@echo "Comandos disponíveis:"
+	@echo "  make all      - Exibe informações básicas e orientações de uso"
 	@echo "  make run      - Executa o montador com entrada.asm e gera arquivo de saída"
 	@echo "  make terminal - Executa o montador e exibe o binário na tela"
 	@echo "  make clean    - Remove arquivos binários temporários"
